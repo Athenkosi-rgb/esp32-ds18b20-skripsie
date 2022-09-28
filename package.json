@@ -1,0 +1,22 @@
+{
+  "name": "esp32-ds18b20-skripsie",
+  "version": "1.0.0",
+  "description": "esp32-ds18b20-skripsie package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Athenkosi-rgb/esp32-ds18b20-skripsie.git"
+  },
+  "author": "athenkosi hlonyane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Athenkosi-rgb/esp32-ds18b20-skripsie/issues"
+  },
+  "homepage": "https://github.com/Athenkosi-rgb/esp32-ds18b20-skripsie#readme",
+  "dependencies": {
+    "package-lock": "^1.0.5"
+  }
+}
